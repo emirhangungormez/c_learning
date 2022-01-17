@@ -1,4 +1,4 @@
-// #3: hafýzada yer kaplama, size fonksiyonu
+// #3: hafÃ½zada yer kaplama, size fonksiyonu
 
 /* int : 4 byte
 short int : 2 byte
