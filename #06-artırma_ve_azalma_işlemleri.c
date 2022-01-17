@@ -1,4 +1,4 @@
-// #6: artýrma ve azalma iþlemleri
+// #6: artırma ve azalma işlemleri
 
 #include <stdio.h>
 int main()
@@ -7,12 +7,12 @@ int main()
 	int b = 20;
 	int c = 30;
 	a = (b + c + 10);
-	a += 2; // kýsa yazýmý (a'ye 2 ekle)
-	a++; // a'yý 1 arttýr (postfix formu), önce a'yý al sonra artýr.
+	a += 2; // kısa yazımı (a'ye 2 ekle)
+	a++; // a'yı 1 artır (postfix formu), önce a'yi al sonra artır.
 
 	b = b - 1;
-	b -= 2; // kýsa yazýmý (b'den 2 çýkar)
-	--b; // b'yý 1 azaltýr (prefix formu) önce eksilt sonra b'yi al.
+	b -= 2; // kısa yazımk (b'den 2 çıkar)
+	--b; // b'yi 1 azaltır (prefix formu) önce eksilt sonra b'yi al.
 
 	printf("%d\n", a);
 	printf("%d", b);
