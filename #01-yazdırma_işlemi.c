@@ -1,9 +1,9 @@
-// #1: yazdırma işlemi
+// #1: yazdÄ±rma iÅŸlemi
 
 #include <stdio.h>
 int main()
 {
-	printf("merhaba dunya!\n"); // '\n' ile alt satıra geçiyoruz.
+	printf("merhaba dunya!\n"); // '\n' ile alt satÄ±ra geÃ§iyoruz.
 	printf("edimsel duyumsamalarla karsilasmaya hazirim.");
 	getchar();
 
