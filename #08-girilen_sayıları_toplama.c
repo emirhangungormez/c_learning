@@ -1,4 +1,4 @@
-// #8: girilen sayıları toplama
+// #8: girilen sayÄ±larÄ± toplama
 
 #include <stdio.h>
 int main()
@@ -8,6 +8,6 @@ int main()
 	printf("total: %d", a + b + c);
 
 	getchar();
-	getchar(); // programın kapanmasını önlemek için 2 tane kullanıyoruz.
+	getchar(); // programÄ±n kapanmasÄ±nÄ± Ã¶nlemek iÃ§in 2 tane kullanÄ±yoruz.
 	return 0;
 }
